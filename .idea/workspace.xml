@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054f92fa-93a1-424c-a1f0-c79aa6579981" name="Changes" comment="[Feedback] добавил тест обратной связи" />
+    <list default="true" id="054f92fa-93a1-424c-a1f0-c79aa6579981" name="Changes" comment="[Feedback] new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674396741274</updated>
     </task>
+    <task id="LOCAL-00001" summary="[Feedback] new">
+      <created>1674397969341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674397969341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Feedback] new" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Feedback] new" />
   </component>
 </project>
