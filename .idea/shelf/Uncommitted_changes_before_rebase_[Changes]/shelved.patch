@@ -1,0 +1,200 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"054f92fa-93a1-424c-a1f0-c79aa6579981\" name=\"Changes\" comment=\"[Region] Добавил новый тест Region\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/RegistrationHeder/HeaderTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/RegistrationHeder/Page.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/RegistrationHeder/Property.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/RegistrationHeder/Steps.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/ConfProperties.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/ConfigurationProperties.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/InitDriver.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/InitDriver.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/MainPage.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/MainPage.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/RegionTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/ChoosingRegion/RegionTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KgWWl5VnV8XucShMFl2gHnlYkF\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/nikulin/IdeaProjects/Tests/src/test/java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\nikulin\\IdeaProjects\\Tests\\src\\test\\java\" />\r\n      <recent name=\"C:\\Users\\nikulin\\IdeaProjects\\Tests\\src\\test\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"JUnit.HeaderTest\">\r\n    <configuration name=\"HeaderTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Tests\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"RegistrationHeder.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"RegistrationHeder\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"RegistrationHeder.HeaderTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Tests\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Feedback.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"Feedback\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Feedback.LoginTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"RegionTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Tests\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"ChoosingRegion.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"ChoosingRegion\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"ChoosingRegion.RegionTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.HeaderTest\" />\r\n        <item itemvalue=\"JUnit.RegionTest\" />\r\n        <item itemvalue=\"JUnit.LoginTest\" />\r\n        <item itemvalue=\"JUnit.LoginTest\" />\r\n        <item itemvalue=\"JUnit.LoginTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"054f92fa-93a1-424c-a1f0-c79aa6579981\" name=\"Changes\" comment=\"\" />\r\n      <created>1674396741274</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674396741274</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"new\">\r\n      <created>1674396833783</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674396833783</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"[Region] Добавил новый тест Region\">\r\n      <created>1674458878209</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674458878209</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"Feedback\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"new\" />\r\n    <MESSAGE value=\"[Region] Добавил новый тест Region\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"[Region] Добавил новый тест Region\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2186980bb8c207a1be4f05dcf1346ffa5bd7c0cc)
++++ b/.idea/workspace.xml	(date 1675179237594)
+@@ -4,31 +4,13 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="054f92fa-93a1-424c-a1f0-c79aa6579981" name="Changes" comment="[Region] Добавил новый тест Region">
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrationHeder/HeaderTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrationHeder/Page.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrationHeder/Property.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/RegistrationHeder/Steps.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/ChoosingRegion/ConfProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChoosingRegion/ConfigurationProperties.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/ChoosingRegion/InitDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChoosingRegion/InitDriver.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/ChoosingRegion/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChoosingRegion/MainPage.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/ChoosingRegion/RegionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChoosingRegion/RegionTest.java" afterDir="false" />
++    <list default="true" id="054f92fa-93a1-424c-a1f0-c79aa6579981" name="Changes" comment="new">
+       <change beforePath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+@@ -37,7 +19,6 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -48,36 +29,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Users/nikulin/IdeaProjects/Tests/src/test/java"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikulin/IdeaProjects/Tests/src/test/java&quot;
+   }
+-}]]></component>
+-  <component name="RecentsManager">
+-    <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\nikulin\IdeaProjects\Tests\src\test\java" />
+-      <recent name="C:\Users\nikulin\IdeaProjects\Tests\src\test" />
+-    </key>
+-  </component>
+-  <component name="RunManager" selected="JUnit.HeaderTest">
+-    <configuration name="HeaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <module name="Tests" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="RegistrationHeder.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <option name="PACKAGE_NAME" value="RegistrationHeder" />
+-      <option name="MAIN_CLASS_NAME" value="RegistrationHeder.HeaderTest" />
+-      <option name="TEST_OBJECT" value="class" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
++}</component>
++  <component name="RunManager">
+     <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="Tests" />
+       <extension name="coverage">
+@@ -88,21 +47,6 @@
+       </extension>
+       <option name="PACKAGE_NAME" value="Feedback" />
+       <option name="MAIN_CLASS_NAME" value="Feedback.LoginTest" />
+-      <option name="TEST_OBJECT" value="class" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration name="RegionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <module name="Tests" />
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="ChoosingRegion.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <option name="PACKAGE_NAME" value="ChoosingRegion" />
+-      <option name="MAIN_CLASS_NAME" value="ChoosingRegion.RegionTest" />
+       <option name="TEST_OBJECT" value="class" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -110,10 +54,6 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="JUnit.HeaderTest" />
+-        <item itemvalue="JUnit.RegionTest" />
+-        <item itemvalue="JUnit.LoginTest" />
+-        <item itemvalue="JUnit.LoginTest" />
+         <item itemvalue="JUnit.LoginTest" />
+       </list>
+     </recent_temporary>
+@@ -134,14 +74,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674396833783</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="[Region] Добавил новый тест Region">
+-      <created>1674458878209</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1674458878209</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -149,44 +82,7 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="FILTERS">
+-                <map>
+-                  <entry key="branch">
+-                    <value>
+-                      <list>
+-                        <option value="master" />
+-                      </list>
+-                    </value>
+-                  </entry>
+-                </map>
+-              </option>
+-            </State>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-    <option name="RECENT_FILTERS">
+-      <map>
+-        <entry key="Branch">
+-          <value>
+-            <list>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="HEAD" />
+-                </option>
+-              </RecentGroup>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="master" />
+-                </option>
+-              </RecentGroup>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="Feedback" />
+-                </option>
+-              </RecentGroup>
+-            </list>
++            <State />
+           </value>
+         </entry>
+       </map>
+@@ -194,7 +90,6 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="new" />
+-    <MESSAGE value="[Region] Добавил новый тест Region" />
+-    <option name="LAST_COMMIT_MESSAGE" value="[Region] Добавил новый тест Region" />
++    <option name="LAST_COMMIT_MESSAGE" value="new" />
+   </component>
+ </project>
+\ No newline at end of file
