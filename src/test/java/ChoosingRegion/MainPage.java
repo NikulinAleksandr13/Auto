@@ -22,7 +22,7 @@ public class MainPage extends Step {
         this.driver = driver;
         this.actions = new Actions(driver);
         PageFactory.initElements(driver, this);
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMillis(Long.parseLong(ConfProperties.getProperty("login.page.time_out"))));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMillis(Long.parseLong(ConfigurationProperties.getProperty("login.page.time_out"))));
 
     }
 
